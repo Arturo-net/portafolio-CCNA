@@ -29,7 +29,7 @@ Se diseñó la segmentación de red utilizando subredes `/29` para optimizar el 
 
 ### 2. Asignación de Puertos en Switches
 
-Se configuraron los puertos de acceso y troncales para garantizar la correcta segmentación y transporte del tráfico etiquetado (802.1Q).
+Se configuraron los puertos de acceso y troncales para realizar el transporte del tráfico etiquetado 802.1Q.
 
 #### **Switch SW2**
 - **Puertos Troncales:** ```F0/1``` (Hacia SW1)
