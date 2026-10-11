@@ -54,7 +54,7 @@ Se configuraron los puertos de acceso y troncales para realizar el transporte de
 
 ### 4. Pruebas y Verificación de Conectividad
 
-Para validar la correcta implementación y aislamiento del tráfico, se realizaron exitosamente las siguientes pruebas de conectividad mediante `ping`:
+Para verificar la correcta implementación y comunicación del tráfico, se realizaron exitosamente las siguientes pruebas de conectividad mediante `ping`:
 
 - [x] **Conectividad Intra-VLAN:** Verificación de tráfico entre hosts de la misma VLAN.
 - [x] **Conectividad Inter-VLAN:** Verificaci[on de enrutamiento a través de R1 entre diferentes VLANs.
